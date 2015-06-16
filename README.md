@@ -11,4 +11,5 @@
 
 ##Run
 * ./lda est 8 200 settings.txt mult.txt random result/  
-* ./ctr --directory result/ --user user.txt --item item.txt --mult mult.txt --theta_init final.gamma --beta_init final.beta
+* ./ctr --directory result/ --user user.txt --item item.txt --mult mult.txt --theta_init final.gamma --beta_init final.beta  
+* ./predict.out
